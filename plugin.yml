@@ -1,0 +1,10 @@
+name: DarkDiamond
+version: 1.2.1
+author: Celeo
+descrption: Removes diamonds, buffs iron
+main: net.thedarktide.celeo.DarkDiamondCore
+depends: [WorldGuard]
+commands:
+  darkdiamond:
+    usage: /<command>
+    description: Reloads from the settings
